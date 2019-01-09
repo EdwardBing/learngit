@@ -8,5 +8,5 @@ local main = function(...)
 	print("a / b = ".. (a / b))
 	print("good good study, day day up!")
 end
--- test
+-- modify the main.lua file
 main(...)
