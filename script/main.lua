@@ -8,10 +8,4 @@ local main = function(...)
 	print("a / b = ".. (a / b))
 	print("good good study, day day up!")
 end
--- modify the main.lua file
--- add one lines
 main(...)
--- bababalalalalacccccccc
--- 再次添加一行代码
--- 第二行哈哈哈哈哈哈
--- tianjiayihang
